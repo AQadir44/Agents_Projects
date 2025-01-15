@@ -1,0 +1,5 @@
+langchain-community
+langchain_experimental
+langchain_google_genai
+streamlit
+arxiv
