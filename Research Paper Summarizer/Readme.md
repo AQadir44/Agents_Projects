@@ -26,13 +26,16 @@ This project aims to provide a concise summary of research papers by analyzing t
 ---------------
 
 1. Clone the repository: `git clone https://github.com/AQadir44/research-paper-summarizer.git`
-2. Install the required libraries: `pip install -r requirements.txt`
+2. Create the virtual environment `python -m venv venv`
+3. Activate the virtual environment `venv\Scripts\activate`
+4. Install the required libraries: `pip install -r requirements.txt`
 
 **Usage**
 ---------
 
-1. Run the summarizer script: `python summarizer.py`
-2. Enter the paper number 
+1. Activate the virtual environment `venv\Scripts\activate`
+2. Run the summarizer script: `streamlit run app.py`
+3. Enter the paper number 
 
 
 **Contributing**
