@@ -5,3 +5,4 @@
  langchain_experimental
  langchain_google_genai
  streamlit
+ python_dotenv

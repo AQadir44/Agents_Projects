@@ -14,6 +14,8 @@ llm = ChatGoogleGenerativeAI(model="gemini-pro",
 
 arvix_tool = ArxivAPIWrapper()
 
+# arxiv_tool = load_tool(['arxiv'])
+
 tools = [
   
     Tool(

@@ -1,0 +1,4 @@
+# Chat Deepseek Project/model/deepseek-llm-7b-base.Q4_0.gguf
+venv/*
+.vscode/* 
+model/*
